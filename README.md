@@ -29,4 +29,4 @@ Steps to run main App
 
 # Screenshots
 
-[!image](/Screenshots/illustration.png)
+[!image](/Screenshots/demonstration.png?raw=true)
