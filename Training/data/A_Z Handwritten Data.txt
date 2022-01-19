@@ -1,0 +1,5 @@
+A_Z Handwritten Data.csv can be downloaded from
+
+https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format
+or
+https://drive.google.com/file/d/1ph_o43dgIzxHDnaiBaO9N4j6a5wLWxWK/view?usp=sharing
