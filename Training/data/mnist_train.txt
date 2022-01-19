@@ -1,0 +1,5 @@
+mnist_train.csv can be downloaded from
+
+https://www.kaggle.com/oddrationale/mnist-in-csv
+or
+https://drive.google.com/file/d/1aMEsFFs34S0DbRj468ZfX_sRMeKYVjbT/view?usp=sharing
