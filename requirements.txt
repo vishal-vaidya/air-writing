@@ -1,0 +1,13 @@
+imageio
+mediapipe
+numpy
+opencv_contrib_python
+Pillow
+playsound
+pynput
+keras
+tensorflow
+matplotlib
+np_utils
+pandas
+scikit-learn
