@@ -29,11 +29,11 @@ Steps to run main App
 
 # Screenshots
 
-Illustartion of the App
+### Illustartion of the App
 <img src="/Screenshots/demonstration.png" width="60%" height="60%">
 
-Illustration of App when Correct input is given
+### Illustration of App when Correct input is given
 <img src="/Screenshots/correct_input.png" width="60%" height="60%">
 
-Illustration of App when Incorrect input is given
+### Illustration of App when Incorrect input is given
 <img src="/Screenshots/wrong_input.png" width="60%" height="60%">
