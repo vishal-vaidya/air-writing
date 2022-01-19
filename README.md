@@ -29,4 +29,4 @@ Steps to run main App
 
 # Screenshots
 
-<img src="/Screenshots/demonstration.png" width="90%" height="90%">
+<img src="/Screenshots/demonstration.png" width="60%" height="60%">
