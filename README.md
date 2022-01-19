@@ -29,4 +29,4 @@ Steps to run main App
 
 # Screenshots
 
-[!image](/Screenshots/demonstration.png?raw=true)
+<img src="/Screenshots/demonstration.png" width="90%" height="90%">
