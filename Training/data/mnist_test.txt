@@ -1,0 +1,5 @@
+mnist_test.csv can be downloaded from
+
+https://www.kaggle.com/oddrationale/mnist-in-csv
+or
+https://drive.google.com/file/d/1BMHWnsxCmC-9M49ADpFBe4OyBcsRY9Jx/view?usp=sharing
