@@ -26,3 +26,7 @@ Steps to run main App
 1. Open the Main App folder.
 2. Open app.ipynb using Jupyter notebook.
 3. Run all cells.
+
+# Screenshots
+
+[!image](/Screenshots/illustration.png)
